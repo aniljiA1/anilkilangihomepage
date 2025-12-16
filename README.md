@@ -25,8 +25,8 @@ The design is based on the provided wireframes and implemented using a standard 
 
 ## live
 
-Github: 
+Github: https://github.com/aniljiA1/anilkilangihomepage.git
 
-Live: 
+Live: https://anilkilangihomepage.netlify.app/
 
 
